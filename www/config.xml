@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="in.maiskool.maisk" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>MAI SKOOL</name>
+<widget id="com.maiskool.maisk" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Mai Skool</name>
     <description>
-      Welcome to MAI SKOOL
+      Welcome to Mai Skool
     </description>
     <author email="maxtechapps@gmail.com" href="http://themaxtech.com">
         ARUN G
